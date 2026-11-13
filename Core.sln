@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B9B95855-15FC-4D35-8EAF-5C409EC6216C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicsLibV1", "GraphicsLibV1\GraphicsLibV1.csproj", "{302F72B2-370F-430C-A567-DB6FF9E2B87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "GameLogic\GameLogic.csproj", "{5256365F-2971-40F8-839F-AA7CA7135750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B95855-15FC-4D35-8EAF-5C409EC6216C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B95855-15FC-4D35-8EAF-5C409EC6216C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B95855-15FC-4D35-8EAF-5C409EC6216C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B95855-15FC-4D35-8EAF-5C409EC6216C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302F72B2-370F-430C-A567-DB6FF9E2B87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302F72B2-370F-430C-A567-DB6FF9E2B87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302F72B2-370F-430C-A567-DB6FF9E2B87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302F72B2-370F-430C-A567-DB6FF9E2B87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5256365F-2971-40F8-839F-AA7CA7135750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5256365F-2971-40F8-839F-AA7CA7135750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5256365F-2971-40F8-839F-AA7CA7135750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5256365F-2971-40F8-839F-AA7CA7135750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
